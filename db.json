@@ -1,0 +1,214 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "created_at": "2019-11-21T06:04:29.000Z",
+      "title": "Cocaine drug cartel leader's interior designers take fall for crimes",
+      "url": "https://www.usatoday.com/in-depth/news/investigations/2019/11/06/cali-cartel-leader-dies-interior-decorators-take-fall-crime/4050770002/",
+      "author": "axiomdata316",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1574316269,
+      "_tags": [
+        "story",
+        "author_axiomdata316",
+        "story_21591809"
+      ],
+      "objectID": "21591809",
+      "_highlightResult": {
+        "title": {
+          "value": "Cocaine drug cartel leader's interior designers take fall for crimes",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.usatoday.com/in-depth/news/investigations/2019/11/06/cali-cartel-leader-dies-interior-decorators-take-fall-crime/4050770002/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "axiomdata316",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 2
+    },
+    {
+      "created_at": "2019-11-21T06:03:34.000Z",
+      "title": "Natural Wine Became a Symbol of Virtuous Consumption",
+      "url": "https://www.newyorker.com/magazine/2019/11/25/how-natural-wine-became-a-symbol-of-virtuous-consumption",
+      "author": "axiomdata316",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1574316214,
+      "_tags": [
+        "story",
+        "author_axiomdata316",
+        "story_21591804"
+      ],
+      "objectID": "21591804",
+      "_highlightResult": {
+        "title": {
+          "value": "Natural Wine Became a Symbol of Virtuous Consumption",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.newyorker.com/magazine/2019/11/25/how-natural-wine-became-a-symbol-of-virtuous-consumption",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "axiomdata316",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 3
+    },
+    {
+      "created_at": "2019-11-21T06:13:18.000Z",
+      "title": "Goldman Sachs are open sourcing the Alloy modelling framework and Pure language",
+      "url": "https://www.cnbc.com/2019/11/20/goldman-sachs-is-giving-away-software-to-wall-street-for-free.html",
+      "author": "ColinEberhardt",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1574316798,
+      "_tags": [
+        "story",
+        "author_ColinEberhardt",
+        "story_21591839"
+      ],
+      "objectID": "21591839",
+      "_highlightResult": {
+        "title": {
+          "value": "Goldman Sachs are open sourcing the Alloy modelling framework and Pure language",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cnbc.com/2019/11/20/goldman-sachs-is-giving-away-software-to-wall-street-for-free.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ColinEberhardt",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 4
+    },
+    {
+      "created_at": "2019-11-21T06:13:18.000Z",
+      "title": "Goldman Sachs are open sourcing the Alloy modelling framework and Pure language",
+      "url": "https://www.cnbc.com/2019/11/20/goldman-sachs-is-giving-away-software-to-wall-street-for-free.html",
+      "author": "ColinEberhardt",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1574316798,
+      "_tags": [
+        "story",
+        "author_ColinEberhardt",
+        "story_21591839"
+      ],
+      "objectID": "21591839",
+      "_highlightResult": {
+        "title": {
+          "value": "Goldman Sachs are open sourcing the Alloy modelling framework and Pure language",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cnbc.com/2019/11/20/goldman-sachs-is-giving-away-software-to-wall-street-for-free.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ColinEberhardt",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 5
+    },
+    {
+      "created_at": "2019-11-21T06:58:58.000Z",
+      "title": "Apple Canceled 'The Banker' Premiere Amid Sexual Abuse Claims",
+      "url": "https://www.hollywoodreporter.com/news/apple-canceled-banker-premiere-sexual-abuse-claims-real-life-subjects-son-1256695",
+      "author": "adrian_mrd",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1574319538,
+      "_tags": [
+        "story",
+        "author_adrian_mrd",
+        "story_21591992"
+      ],
+      "objectID": "21591992",
+      "_highlightResult": {
+        "title": {
+          "value": "Apple Canceled 'The Banker' Premiere Amid Sexual Abuse Claims",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.hollywoodreporter.com/news/apple-canceled-banker-premiere-sexual-abuse-claims-real-life-subjects-son-1256695",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "adrian_mrd",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,37 @@
+<h1 style="text-align:center">Task</h1>
+<input type="text" class="form-control" placeholder="Search" [(ngModel)]="query" id="listSearch">
+<table class="table table-bordered">
+    <tr>
+        <th>Title</th>
+        <th>Url</th>
+        <th>Created_At</th>
+        <th>Author</th>
+    </tr>
+    <tr *ngFor="let r of res|custom:query" data-toggle="modal" data-target="#neelu" (click)="set(r)" [ngClass]="{'neelu':r==dis}">
+        <td>{{r.title}}</td>
+        <td>{{r.url}}</td>
+        <td>{{r.created_at| date:' M/d/yy, h:mm a,EEEE'}}</td>
+        <td>{{r.author}}</td>
+    </tr>
+</table>
+<h2 class="text-danger" *ngIf="(res |custom:query)?.length==0">NO RESULT</h2>
+<div class="container">
+    <div class="modal" id="neelu">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+          <div class="modal-body ">
+         <pre>{{dis|json}}</pre>
+          </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  
